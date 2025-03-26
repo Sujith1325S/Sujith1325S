@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Sujith.S
-- 👀 I’m interested in Research
-- 🌱 I’m currently learning B.E(Mechanical Engineering)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Sujith S
+Data Analyst
+B.E Mechanical Engineer
+SAP | AWS | GIT | SQL | Powerbi | Excel macro | Excel Automation | Dashboarding | Google Looker Studio | Product data management
 
-<!---
-Sujith1325S/Sujith1325S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✅ Excel Data Processing & Comparison
+Automates filtering, matching, and comparing PowerApp and TMS reports based on designer names and ELK numbers.
+Generates difference reports based on predefined column mappings.
+Handles dynamic filtering from user-defined Excel files.
+
+✅ PDM Automation
+
+✅ Streamlit Dashboard for Data Visualization
+Generates Power BI-style dashboards for SCM data.
+Displays summary insights, blank data analysis, and combination frequency reports.
+Offers customizable bar, line, scatter, and stacked charts.
+Allows downloading assumption files with missing values filled and highlighted.
